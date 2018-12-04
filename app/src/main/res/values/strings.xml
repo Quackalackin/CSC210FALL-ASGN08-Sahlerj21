@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Source Code</string>
+    <string name="enter_url_textView">Enter URL:</string>
+    <string name="button_text">get source code</string>
+    <string name="fetching">Fetching...</string>
+    <string name="enter_url">Enter url!</string>
+    <string name="no_network">No network!</string>
+    <string-array name="http">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
